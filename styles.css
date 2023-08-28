@@ -1,2 +1,42 @@
 
 /* Your CSS Code here. */
+
+*{
+
+	margin : 0px;
+	padding : 0px;
+}
+
+.main-div{
+
+	display : flex;
+
+	justify-content:space-between;
+
+	flex-wrap : wrap;
+}
+
+.div-1{
+
+	height : 100px;
+	width :100px;
+	background-color:green;
+	font-size:40px;
+}
+
+.div-2{
+
+	height : 100px;
+	width :100px;
+	background-color:red;
+	font-size:40px;
+}
+
+.div-3{
+
+	height : 100px;
+	width :100px;
+	background-color:blue;
+	font-size:40px;
+}
+
