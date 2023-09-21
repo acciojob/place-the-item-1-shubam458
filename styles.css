@@ -40,3 +40,13 @@
 	font-size:40px;
 }
 
+.holder{
+
+display:flex;
+gap:5px;
+
+	flex-wrap:wrap;
+	
+	
+}
+
